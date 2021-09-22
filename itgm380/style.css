@@ -1,0 +1,26 @@
+/*
+ITGM 380 Index Stylesheet
+Mads Poff
+*/
+
+html {
+  background-color: #3C3F52;
+}
+
+#header {
+  text-align: center;
+}
+
+#links {
+  text-align: center;
+}
+
+p, h2, h3, h4, h5, label {
+  color: white;
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+a {
+  color: #9BB1FF;
+  font-family: 'IBM Plex Sans', sans-serif;
+}
