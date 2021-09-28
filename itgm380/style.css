@@ -16,11 +16,18 @@ html {
 }
 
 p, h2, h3, h4, h5, label {
-  color: white;
+  color: #E2FDFF;
   font-family: 'IBM Plex Sans', sans-serif;
 }
 
 a {
   color: #9BB1FF;
   font-family: 'IBM Plex Sans', sans-serif;
+}
+
+#footer {
+  font-size: 12px;
+  text-align: center;
+  vertical-align: bottom;
+  color: #575C75;
 }
