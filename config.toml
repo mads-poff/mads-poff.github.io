@@ -1,4 +1,4 @@
-baseurl = "https://mads-poff.github.io/"
+baseurl = "https://mvpgame.dev/"
 title = "mads-poff"
 theme = "hugo-theme-console"
 languageCode = "en-us"
