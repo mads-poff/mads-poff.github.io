@@ -21,30 +21,10 @@
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://mvpgame.dev/resume/" /><meta property="article:published_time" content="2021-10-10T13:50:08-04:00" />
 
-<style>
-/* Style buttons */
-.btn {
- background-color: white;
- border-width: thin;
- color:  DodgerBlue;
- padding: 12px 30px;
- cursor: pointer;
- font-size: 20px;
-}
 
-/* Darker background on mouse-over */
-.btn:hover {
- background-color: DodgerBlue;
- color: white;
- border: none;
-}
-</style>
-
-<!-- Add icon library -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <meta name="twitter:title" content="Resume"/>
-<meta name="twitter:description" content="this is where a web version of my resume will go"/>
+<meta name="twitter:description" content=""/>
 
 </head>
 <body class="terminal">
@@ -76,11 +56,93 @@
 
 <h1>Resume</h1>
 
-<!-- Auto width -->
-<a href="mpoffresume.pdf"><button class="btn"><i class="fa fa-download"></i> Download Resume</button></a>
+<style>
+/* Style buttons */
+.btn {
+ background-color: DodgerBlue;
+ border-width: thin;
+ color:  white;
+ padding: 12px 30px;
+ cursor: pointer;
+ font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+ background-color: white;
+ color: DodgerBlue;
+ border-width: thin;
+}
+</style>
+
+<div class="pdfframe">
+      <object
+        data='mpoffresume.pdf'
+        type="application/pdf"
+        width="100%"
+        height="1400"
+      >
+
+        <iframe
+          src='mpoffresume.pdf'
+          width="100%"
+          height="1400"
+        >
+        <p>This browser does not support PDF!</p>
+
+        </iframe>
+
+      </object>
+      <a href="mpoffresume.pdf" download="madspoffresume"><button class="btn"><i class="fa fa-download"></i> Download Resume</button></a>
+</div>
 
 
-        <div class="footer">
+<div class="footer">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <style>
+
+  .fa {
+   padding: 20px;
+   font-size: 30px;
+   width: 70px;
+   text-align: center;
+   text-decoration: none;
+   border-radius: 50%;
+  }
+
+
+  .fa:hover {
+   opacity: 0.7;
+  }
+
+  .fa-twitter {
+   background: #55ACEE;
+   color: white;
+  }
+
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+
+  .fa-github {
+   background: #333;
+   color: white;
+  }
+  </style>
+
+  </br>
+
+  <div class="footer-blog">
+    <a href="https://twitter.com/mvpgamedev" class="fa fa-twitter"></a>
+    <a href="https://www.linkedin.com/in/mads-poff/" class="fa fa-linkedin"></a>
+    <a href="https://github.com/mads-poff" class="fa fa-github"></a>
+  </div>
+
+  </br>
+
     Powered by <a href="https://gohugo.io/">Hugo</a> with
     <a href="https://github.com/mrmierzejewski/hugo-theme-console/">Console Theme</a>.
 </div>
