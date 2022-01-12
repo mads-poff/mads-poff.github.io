@@ -171,7 +171,8 @@ figure {
 .footer-blog {
   clear: both;
   margin-top: 100px;
-  padding-top: 10px;
+  padding-top: 10px;;
+  border-top: 1px solid var(--secondary-color);
   color: white;
 }
 

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Works on mads-poff</title>
+    <link>https://mvpgame.dev/work/</link>
+    <description>Recent content in Works on mads-poff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Oct 2021 14:00:24 -0400</lastBuildDate><atom:link href="https://mvpgame.dev/work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Buckshot</title>
+      <link>https://mvpgame.dev/work/buckshot/</link>
+      <pubDate>Sun, 10 Oct 2021 14:00:24 -0400</pubDate>
+      
+      <guid>https://mvpgame.dev/work/buckshot/</guid>
+      <description>A rogue prince seeks revenge on his former friends with only the power of his own wits and a demon-possessed shotgun.</description>
+    </item>
+    
+    <item>
+      <title>Godslayer</title>
+      <link>https://mvpgame.dev/work/godslayer/</link>
+      <pubDate>Sun, 10 Oct 2021 14:00:20 -0400</pubDate>
+      
+      <guid>https://mvpgame.dev/work/godslayer/</guid>
+      <description>The Sumerian First-Person Slaughterfest inspired by the tradition of retro shooters matched with modern design and aesthetics.</description>
+    </item>
+    
+  </channel>
+</rss>
