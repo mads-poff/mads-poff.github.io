@@ -6,7 +6,16 @@
     <description>Recent content in Works on mads-poff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Oct 2021 14:00:24 -0400</lastBuildDate><atom:link href="https://mvpgame.dev/work/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Feb 2022 15:38:44 -0500</lastBuildDate><atom:link href="https://mvpgame.dev/work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sinister Santa</title>
+      <link>https://mvpgame.dev/work/sinistersanta/</link>
+      <pubDate>Wed, 02 Feb 2022 15:38:44 -0500</pubDate>
+      
+      <guid>https://mvpgame.dev/work/sinistersanta/</guid>
+      <description>Santa&amp;rsquo;s not so jolly in this arcade shoot-&amp;lsquo;em&amp;rsquo;-up.</description>
+    </item>
+    
     <item>
       <title>Buckshot</title>
       <link>https://mvpgame.dev/work/buckshot/</link>
